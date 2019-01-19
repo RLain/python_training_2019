@@ -1,0 +1,330 @@
+Last login: Mon Jan  7 15:53:07 on ttys000
+➜  ~ git:(master) ✗ cd /Users/rebeccalain\ 1/Desktop/Coding/Coursera/Python/PY4E 
+➜  PY4E git:(master) ✗ git status
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 2 and 26 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   week 7/ex07.py
+	modified:   ../../../../../README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../../../../../.CFUserTextEncoding
+	../../../../../.DS_Store
+	../../../../../.IdentityService/
+	../../../../../.ServiceHub/
+	../../../../../.Trash/
+	../../../../../.android/
+	../../../../../.bash_history
+	../../../../../.bash_profile
+	../../../../../.bash_sessions/
+	../../../../../.config/
+	../../../../../.cups/
+	../../../../../.dropbox/
+	../../../../../.gitconfig
+	../../../../../.gitkraken/
+	../../../../../.idlerc/
+	../../../../../.local/
+	../../../../../.mono/
+	../../../../../.oh-my-zsh/
+	../../../../../.oracle_jre_usage/
+	../../../../../.pylint.d/
+	../../../../../.python_history
+	../../../../../.ssh/
+	../../../../../.templateengine/
+	../../../../../.thumbnails/
+	../../../../../.vim/
+	../../../../../.viminfo
+	../../../../../.vscode/
+	../../../../../.zcompdump-Seshat-5.3
+	../../../../../.zoomus/
+	../../../../../.zprofile
+	../../../../../.zsh_history
+	../../../../../.zshrc
+	../../../../../.zshrc.swp
+	../../../../../Applications/
+	../../../../.DS_Store
+	../../../../.html
+	../../../../.localized
+	../../../../AirCall Availability Xmas Morning.png
+	../../../../BABOK_Guide_v3_Member.pdf
+	../../../../BPMN_Beginners_2016_1.pdf
+	../../../../Capital/
+	../../../.DS_Store
+	../../.DS_Store
+	../../HTML & CSS/
+	../../JavaScript/
+	../../PHP/
+	../.DS_Store
+	.DS_Store
+	hello.py
+	week_4/
+	week_5/
+	week_6/
+	../Running Python in Terminal.rtf
+	../Screen Shot 2018-11-02 at 07.01.01.png
+	../Screen Shot 2018-11-02 at 07.02.17.png
+	../Screen Shot 2018-11-02 at 07.03.12.png
+	../Screen Shot 2018-11-02 at 07.04.41.png
+	../Screen Shot 2018-11-02 at 07.05.36.png
+	../Screen Shot 2018-11-02 at 07.06.21.png
+	../Screen Shot 2018-11-02 at 07.08.30.png
+	../Screen Shot 2018-11-02 at 07.11.06.png
+	../Screen Shot 2018-11-12 at 07.22.45.png
+	../Screen Shot 2018-11-12 at 07.24.14.png
+	../Screen Shot 2018-11-12 at 07.28.28.png
+	../Screen Shot 2018-11-12 at 07.29.40.png
+	../Screenshot 2018-11-15 at 07.37.08.png
+	../Screenshot 2018-11-15 at 07.39.19.png
+	../Screenshot 2018-11-15 at 07.40.02.png
+	../Screenshot 2018-11-15 at 07.45.46.png
+	../Screenshot 2018-11-15 at 07.46.58.png
+	../Screenshot 2018-11-15 at 07.50.26.png
+	../Screenshot 2018-11-15 at 07.54.33.png
+	../Screenshot 2018-11-15 at 07.57.18.png
+	../Screenshot 2018-11-15 at 07.57.28.png
+	../Screenshot 2018-11-15 at 08.02.15.png
+	../Screenshot 2018-11-15 at 08.02.59.png
+	../Screenshot 2018-11-15 at 08.05.18.png
+	../Screenshot 2018-11-17 at 10.20.43.png
+	../Screenshot 2018-11-17 at 10.28.30.png
+	../Screenshot 2018-11-17 at 10.46.21.png
+	../Screenshot 2018-11-17 at 10.48.51.png
+	../Screenshot 2018-11-18 at 07.47.12.png
+	../Screenshot 2018-11-18 at 07.53.05.png
+	../Screenshot 2018-11-18 at 07.53.57.png
+	../Screenshot 2018-11-18 at 07.55.27.png
+	../Screenshot 2018-11-18 at 07.56.30.png
+	../Screenshot 2018-11-18 at 07.58.49.png
+	../Screenshot 2018-11-18 at 08.00.46.png
+	../Screenshot 2018-11-18 at 08.08.46.png
+	../Screenshot 2018-11-18 at 08.13.51.png
+	../Screenshot 2018-11-18 at 08.14.45.png
+	../Screenshot 2018-11-18 at 08.37.39.png
+	../Screenshot 2018-11-18 at 08.45.36.png
+	../Screenshot 2018-12-27 at 10.24.22.png
+	../Screenshot 2018-12-27 at 13.10.12.png
+	../Screenshot 2018-12-27 at 13.18.00.png
+	../Screenshot 2018-12-27 at 13.18.31.png
+	../Screenshot 2018-12-27 at 13.29.16.png
+	../Screenshot 2018-12-27 at 13.30.31.png
+	../Screenshot 2018-12-27 at 13.32.10.png
+	../Screenshot 2018-12-27 at 14.43.14.png
+	../Screenshot 2018-12-27 at 14.47.58.png
+	../Screenshot 2018-12-27 at 15.09.54.png
+	../Screenshot 2018-12-27 at 15.12.24.png
+	../Screenshot 2018-12-27 at 15.17.14.png
+	../Screenshot 2018-12-28 at 12.23.04.png
+	../Screenshot 2018-12-28 at 12.23.07.png
+	../Screenshot 2018-12-28 at 12.24.21.png
+	../Screenshot 2018-12-28 at 12.25.16.png
+	../Screenshot 2018-12-28 at 12.26.37.png
+	../Screenshot 2018-12-28 at 16.13.01.png
+	../Screenshot 2018-12-28 at 16.15.21.png
+	../../SQL/
+	../../../Git /
+	../../../Persistent Cookies.png
+	../../../Python Programming-An Introduction to Computer Science 2nd edition-John Zelle 2010.pdf
+	../../../Screen Shot 2018-06-25 at 20.17.01.png
+	../../../Screen Shot 2018-06-25 at 20.17.32.png
+	../../../Screen Shot 2018-06-25 at 20.20.08.png
+	../../../Screen Shot 2018-06-25 at 20.21.36.png
+	../../../Screen Shot 2018-06-25 at 20.22.37.png
+	../../../Screen Shot 2018-06-25 at 20.22.56.png
+	../../../Screen Shot 2018-06-25 at 20.24.03.png
+	../../../Screen Shot 2018-06-25 at 20.24.31.png
+	../../../Terminal/
+	../../../What are Cookies?.mp4
+	../../../What is a Session?.mp4
+	../../../What is a cookie?.png
+	../../../Wolf/
+	../../../html_and_css/
+	../../../jquery.js
+	../../../my_own_creations/
+	../../../phpMyAdmin-4.8.0.1-all-languages/
+	../../../../Import templates/
+	../../../../Important Ops Docs/
+	../../../../Lease Agreement - Uithof Street, Norfolk Park copy.pdf
+	../../../../Leasing 6a Uithof/
+	../../../../Operations/
+	../../../../Personal/
+	../../../../Proactive Xmas Email Fail.png
+	../../../../Projects/
+	../../../../Screenshot 2018-12-28 at 11.12.49.png
+	../../../../Screenshot 2019-01-07 at 15.01.03.png
+	../../../../Screenshot 2019-01-07 at 15.43.09.png
+	../../../../Screenshot 2019-01-07 at 15.44.12.png
+	../../../../Screenshot 2019-01-07 at 15.44.52.png
+	../../../../Screenshot 2019-01-07 at 15.48.11.png
+	../../../../Screenshot 2019-01-07 at 15.49.01.png
+	../../../../Screenshot 2019-01-07 at 15.49.07.png
+	../../../../Screenshot 2019-01-07 at 15.50.57.png
+	../../../../Screenshot 2019-01-07 at 15.51.46.png
+	../../../../Shadow.jpg
+	../../../../Xmas Eve Support Overun.png
+	../../../../Yoco Images/
+	../../../../~$CCD Dispatches 30-08-2018.xlsx
+	../../../../~$FICA Week 1 part 2 25-07-2017.xlsx
+	../../../../~$FICA Week 4 mail 25-07-2017.xlsx
+	../../../../~$Yoco JHB CCD Dispatch File 21-07-2017.xlsx
+	../../../../~$Yoco JHB Dispatch File 19-07-2017.xlsx
+	../../../../~$cessory Stock Tracker_New June 2018.docx
+	../../../../../Documents/
+	../../../../../Downloads/
+	../../../../../Dropbox
+	../../../../../Dropbox (Yoco)/
+	../../../../../EmptyHTMLFile.html
+	../../../../../Library/
+	../../../../../Movies/
+	../../../../../Music/
+	../../../../../Pictures/
+	../../../../../Public/
+	../../../../../Sites/
+	../../../../../cd
+	../../../../../cd.pub
+	../../../../../public_html/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+➜  PY4E git:(master) ✗ git remote show origin
+* remote origin
+  Fetch URL: git@github.com:RLain/javascript-training-week-4.git
+  Push  URL: git@github.com:RLain/javascript-training-week-4.git
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (local out of date)
+➜  PY4E git:(master) ✗ git clone git@github.com:RLain/python_training_2019.git
+Cloning into 'python_training_2019'...
+warning: You appear to have cloned an empty repository.
+➜  PY4E git:(master) ✗ cd python_training_2019 
+➜  python_training_2019 git:(master) git statua
+git: 'statua' is not a git command. See 'git --help'.
+
+The most similar command is
+	status
+➜  python_training_2019 git:(master) git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+➜  python_training_2019 git:(master) git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.DS_Store
+	week 7/
+	week_4/
+	week_5/
+	week_6/
+
+nothing added to commit but untracked files present (use "git add" to track)
+➜  python_training_2019 git:(master) ✗ git commit -m "first commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+	.DS_Store
+	week 7/
+	week_4/
+	week_5/
+	week_6/
+
+nothing added to commit but untracked files present
+➜  python_training_2019 git:(master) ✗ git add .
+warning: adding embedded git repository: week 7
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> week 7
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached week 7
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: week_6
+➜  python_training_2019 git:(master) ✗ defaults write com.apple.finder AppleShowAllFiles YES
+➜  python_training_2019 git:(master) ✗ 
+➜  python_training_2019 git:(master) ✗ git add .
+➜  python_training_2019 git:(master) ✗ git commit -m "First commit"
+[master (root-commit) e20ae04] First commit
+ 7 files changed, 62 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 160000 week 7
+ create mode 100644 week_4/ex_01.py
+ create mode 100644 week_5/.DS_Store
+ create mode 100644 week_5/ex_01.py
+ create mode 100644 week_5/ex_02.py
+ create mode 160000 week_6
+➜  python_training_2019 git:(master) git oush origin master
+git: 'oush' is not a git command. See 'git --help'.
+
+The most similar command is
+	push
+➜  python_training_2019 git:(master) git push origin master
+Counting objects: 9, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (9/9), 2.50 KiB | 2.50 MiB/s, done.
+Total 9 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To github.com:RLain/python_training_2019.git
+ * [new branch]      master -> master
+➜  python_training_2019 git:(master) 
+➜  python_training_2019 git:(master) git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+➜  python_training_2019 git:(master) git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .DS_Store
+	deleted:    week 7
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	week_7/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+➜  python_training_2019 git:(master) ✗ git add .
+➜  python_training_2019 git:(master) ✗ git commit -m "first commit"
+[master 8303fad] first commit
+ 3 files changed, 39 insertions(+), 1 deletion(-)
+ delete mode 160000 week 7
+ create mode 100644 week_7/ex07.py
+➜  python_training_2019 git:(master) git push origin master
+Counting objects: 5, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 955 bytes | 955.00 KiB/s, done.
+Total 5 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:RLain/python_training_2019.git
+   e20ae04..8303fad  master -> master
+➜  python_training_2019 git:(master) 

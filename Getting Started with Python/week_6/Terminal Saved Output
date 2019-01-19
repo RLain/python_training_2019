@@ -1,0 +1,71 @@
+Last login: Mon Dec 31 14:57:02 on ttys000
+➜  ~ git:(master) ✗ cd /Users/rebeccalain\ 1/Desktop/Coding/Coursera/Python/PY4E/week_6
+➜  week_6 git:(master) git status
+On branch master
+nothing to commit, working tree clean
+➜  week_6 git:(master) git push origin +master
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+➜  week_6 git:(master) git pull origin master
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+➜  week_6 git:(master) git remote show origin -n
+* remote origin
+  Fetch URL: git@github.com:RLain/pythontraining.git
+  Push  URL: git@github.com:RLain/pythontraining.git
+  HEAD branch: (not queried)
+  Remote branch: (status not queried)
+    master
+  Local ref configured for 'git push' (status not queried):
+    (matching) pushes to (matching)
+➜  week_6 git:(master) git status
+On branch master
+nothing to commit, working tree clean
+➜  week_6 git:(master) git status
+On branch master
+nothing to commit, working tree clean
+➜  week_6 git:(master) git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ex07.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+➜  week_6 git:(master) ✗ git add .
+➜  week_6 git:(master) ✗ git commit -a "Week 7"
+fatal: Paths with -a does not make sense.
+➜  week_6 git:(master) ✗ git commit -m "Week 7"
+[master a812f95] Week 7
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+➜  week_6 git:(master) git push origin master
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+➜  week_6 git:(master) git remote add origin-https git@github.com:RLain/pythontraining.git
+git push -u origin-https master
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+➜  week_6 git:(master) git remote add origin-https git@github.com:RLain/pythontraining.git
+
+fatal: remote origin-https already exists.
+➜  week_6 git:(master) git push -u origin-https master
+
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+➜  week_6 git:(master) 

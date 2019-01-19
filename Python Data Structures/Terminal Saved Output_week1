@@ -1,0 +1,20 @@
+Last login: Mon Jan  7 15:58:34 on ttys000
+➜  ~ git:(master) ✗ /Users/rebeccalain\ 1/Desktop/Coding/Coursera/Python/PY4E/python_training_2019/Python\ Data\ Structures/week_01.py
+zsh: permission denied: /Users/rebeccalain 1/Desktop/Coding/Coursera/Python/PY4E/python_training_2019/Python Data Structures/week_01.py
+➜  ~ git:(master) ✗ python3 week_01.py
+/Library/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'week_01.py': [Errno 2] No such file or directory
+➜  ~ git:(master) ✗ /Users/rebeccalain\ 1/Desktop/Coding/Coursera/Python/PY4E/python_training_2019/Python\ Data\ Structures
+➜  Python Data Structures git:(master) ✗ python3 week_01.py
+➜  Python Data Structures git:(master) ✗ python3 week_01.py
+➜  Python Data Structures git:(master) ✗ python3 week_01.py
+0.8475
+➜  Python Data Structures git:(master) ✗ 
+
+
+
+
+
+
+
+
+
